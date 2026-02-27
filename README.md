@@ -22,7 +22,7 @@ Saudações, viajante. Sou um **Desenvolvedor focado em Automação e Dados**, e
 
 ### 🏰 Campanhas Atuais (Projetos)
 
-- **⚙️ [KRON-V2](https://github.com/jpamerico1/KRON-V2): A Engine de Tratamento de Dados.** O KRON é a minha principal arma contra a desordem. Um software robusto desenvolvido em Python para automatizar o pipeline de arquivos, realizando a limpeza, conversão e padronização de grandes volumes de informações (ETL) de forma rápida e programática.
+- **⚙️ [KRON-V2]([https://github.com/jpamerico1/KRON-V2](https://github.com/jpamerico1/KRON-V2/releases/tag/V_2.0_beta)): A Engine de Tratamento de Dados.** O KRON é a minha principal arma contra a desordem. Um software robusto desenvolvido em Python para automatizar o pipeline de arquivos, realizando a limpeza, conversão e padronização de grandes volumes de informações (ETL) de forma rápida e programática.
 - **🛠️ Arquitetura SaaS:** Explorando e desenvolvendo soluções escaláveis para transformar scripts de automação em serviços acessíveis.
 
 ---

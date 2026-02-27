@@ -27,14 +27,6 @@ Saudações, viajante. Sou um **Assistente de Auditoria** e um entusiasta da est
 
 ---
 
-### 🕯️ Status do Reino
-
-![Estatísticas de Américo](https://github-readme-stats.vercel.app/api?username=jpamerico1&show_icons=true&theme=dracula)
-
-![Linguagens de Américo](https://github-readme-stats.vercel.app/api/top-langs/?username=jpamerico1&layout=compact&langs_count=7&theme=dracula)
-
----
-
 ### 🤝 Alianças e Mensagens
 Se você busca um aliado para fortalecer suas defesas digitais ou discutir a arte da auditoria, envie um corvo:
 

@@ -1,8 +1,8 @@
 # ⚔️ Crônicas de Américo: O Guardião do Código
 
-<p align="center">
+<div align="center">
   <img src="banner_epico.jpg" alt="Cavaleiro Templário Programador" width="100%" />
-</p>
+</div>
 
 ### 📜 O Pergaminho de Identidade
 > *"Nas terras digitais, a ordem é mantida através da vigilância e do aço refinado da lógica."*
@@ -31,10 +31,10 @@ Saudações, viajante. Sou um **Assistente de Auditoria** e um entusiasta da est
 
 ### 🕯️ Status do Reino
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpamerico1&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Américo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpamerico1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Américo" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpamerico1&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpamerico1&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 ---
 
@@ -44,6 +44,6 @@ Se você busca um aliado para fortalecer suas defesas digitais ou discutir a art
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoamerico1221/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpamerico1221@gmail.com)
 
-<p align="right">
+<div align="right">
   <i>"Non Nobis Domine, Sed Nomini Tuo Da Gloriam."</i> ⚔️
-</p>
+</div>

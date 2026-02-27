@@ -1,7 +1,7 @@
 # ⚔️ Crônicas de Américo: O Guardião do Código
 
 <p align="center">
-  <img src="banner_epico.png" alt="Cavaleiro Templário Programador" width="100%" />
+  <img src="banner_epico.jpg" alt="Cavaleiro Templário Programador" width="100%" />
 </p>
 
 ### 📜 O Pergaminho de Identidade

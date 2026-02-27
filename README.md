@@ -32,7 +32,7 @@ Saudações, viajante. Sou um **Assistente de Auditoria** e um entusiasta da est
 ### 🕯️ Status do Reino
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpamerico1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Américo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpamerico1&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Américo" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpamerico1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Américo" />
 </p>
 
